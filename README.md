@@ -1,4 +1,4 @@
-<h2>Airport Analysis Dashboard Explanation</h2>
+<h2>Airport Analysis Dashboard</h2>
 
 <h3>Overview:</h3>
 <p>This dashboard provides a comprehensive analysis of flight operations, focusing on cancellations and delays across airlines and origins. The visualizations help identify trends, underlying issues, and opportunities for operational improvement in the airline industry.</p>
